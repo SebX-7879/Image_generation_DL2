@@ -1,2 +1,5 @@
-.venv
 data
+data.zip
+.venv
+__pycache__
+
